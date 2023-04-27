@@ -1,0 +1,76 @@
+.common{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Header{
+    background-color: rgb(24, 0, 63);
+    top: 0px; 
+    left: 0px;
+    right: 0px;
+    color: white;
+    height: 100px ;
+    line-height: 100px;
+    
+}
+
+.mainbody{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.Footer{
+    height: 20px;
+    font-size: 10px;
+    padding-top: 0px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    line-height: 20px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    position: fixed;
+    opacity: 75%;
+
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+nav{
+    background-color: rgb(89, 0, 255);
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a{ 
+    float: left;
+    color: rgb(255, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 13px;
+    font-size: 16px ;
+    text-decoration: none;
+    font-weight: bold;
+    overflow: hidden;
+}
+
+nav a:hover { 
+    background-color: #8d8d8d;
+}
+
+body{
+    background-color: rgb(174, 174, 174);
+}
+
+.Tableau{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: ;
+    
+    
+    
+    width: 75%;
+}
